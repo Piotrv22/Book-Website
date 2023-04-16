@@ -1,9 +1,9 @@
 <b>Tech stack</b>
-Html
-Css
+Html<br>
+Css<br>
 JavaScript
 
-Screenshots
+<b>Screenshots</b>
 ![-](/preview/1.jpg)
 ![-](/preview/2.jpg)
 ![-](/preview/3.jpg)
