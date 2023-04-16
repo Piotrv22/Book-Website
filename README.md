@@ -1,4 +1,4 @@
-Tech stack
+<b>Tech stack</b>
 Html
 Css
 JavaScript
